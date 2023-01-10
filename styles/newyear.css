@@ -1,4 +1,29 @@
-.banner{width: 1600px;
-    height: 809px;
-    left: 1601px;
-    top: 0px;}
+.title{background-image:url(../images/banner/banner2.png);
+    width: 1600px;
+height: 809px;
+left: 1600px;
+top: 0px;}
+        .a{ position: absolute;
+            text-align: right;font-weight: 700;
+            font-size: 65px;
+            line-height: 76px;
+            width: 525px;
+        height: 212px;
+        left: 845px;
+        top: 216px;}
+    .b{ position: absolute; text-align:right;font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;width: 494px;
+        height: 61px;
+        left: 871px;
+        top: 471px;}
+        .btn{position: absolute;
+            width: 160px;
+            height: 64px;
+            left: 1210px;
+            top: 578px;
+            text-align:center; color: aliceblue; background: #F15B22;
+            border-radius: 5px;border: 0; }
+
+        
+
